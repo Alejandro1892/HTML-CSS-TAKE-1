@@ -13,6 +13,7 @@ main p{
   font-family: monospace;
   color:darkmagenta;
   font-size: 18px;
+  margin-right:100px;
 }
 
 li{

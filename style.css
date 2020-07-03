@@ -1,17 +1,18 @@
-*{
-  background-color: #c8d2e0;
+main{
+  background-color:blanchedalmond;
 }
 
-.centered{
+ h2, h3, h4 {
   text-align: center;
   font-family: cursive;
   font-weight: bold;
 }
 
- p{
-  text-align: center;
-  font-family: Courier New;
+main p{
+  text-align:justify;
+  font-family: monospace;
   color:darkmagenta;
+  font-size: 18px;
 }
 
 li{
@@ -27,7 +28,20 @@ img{
   height: 300px;
   width:300px;
   display:block;
-  border: 5px groove gainsboro;
   margin: auto;
   padding: 3px;
 }
+
+.dark-background{
+border:4px double gainsboro;
+background-color:burlywood;
+text-align: center;
+font-family:cursive;
+color:crimson;
+font-weight:bold;
+}
+
+a:link    { color: blue;  }
+a:visited { color: darkmagenta;   }
+a:hover   { color: green; }
+a:active  { color: red;  }

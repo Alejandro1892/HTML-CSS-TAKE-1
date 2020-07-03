@@ -1,0 +1,33 @@
+*{
+  background-color: #c8d2e0;
+}
+
+.centered{
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+ p{
+  text-align: center;
+  font-family: Courier New;
+  color:darkmagenta;
+}
+
+li{
+ color:crimson;
+ font-family:fantasy;
+}
+
+img{
+  background-color:darkblue;
+  border-radius: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width:300px;
+  display:block;
+  border: 5px groove gainsboro;
+  margin: auto;
+  padding: 3px;
+}

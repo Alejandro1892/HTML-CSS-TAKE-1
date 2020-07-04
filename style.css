@@ -1,4 +1,4 @@
-main{
+main{/*use something light so different color fonts will be easily readable*/
   background-color:blanchedalmond;
 }
 
@@ -9,7 +9,7 @@ main{
 }
 
 main p{
-  text-align:justify;
+  text-align:left;
   font-family: monospace;
   color:darkmagenta;
   font-size: 18px;
@@ -21,7 +21,7 @@ li{
  font-family:fantasy;
 }
 
-img{
+img{ /*should be front and center with bold border*/
   background-color:darkblue;
   border-radius: 20px;
   margin-left: auto;
@@ -33,7 +33,8 @@ img{
   padding: 3px;
 }
 
-.dark-background{
+
+.dark-background{ /*header and footer should be darker backgrounds to separate from rest of page*/
 border:4px double gainsboro;
 background-color:burlywood;
 text-align: center;
